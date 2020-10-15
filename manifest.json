@@ -27,7 +27,7 @@
       "type": "image/png"
     }],
   "lang": "en-US",
-  "start_url": "http://localhost/Hello-PWA/home.html",
+  "start_url": "home.html",
   "display": "standalone",
   "background_color": "white",
   "theme_color": "white"
